@@ -1,0 +1,48 @@
+closure_summary_alt,Categorisation
+rcd was tripped upon arrival and after resetting the csd was still off  upon further investigation the fmps was faulty a storm recently hit the area  fmps was replaced with mrn supplied parts  services confirmed restored  noc was also advised to send out sdp electrician to replace the rcd as the â€˜test trip buttonâ€™ does not trip the circuit  [ORG]  [PERSON] from noc advised and approved offsite,FMPS Replaced 
+found that the fmps still had [PRODUCT] but it was making a ticking a sound the output voltage was [DATE] i believe the fmps has failed and will need replacing,Faulty FMPS units causing power issues (MRN Required)
+on arrival found power to [CARDINAL] also found chattering fmps relay attempted to reset relay multiple times without success faulty fmps unit requires replacement,Faulty FMPS units causing power issues (MRN Required)
+[DATE] cable damaged by lightning activityhaul new [CARDINAL] pr temporary to provide service and bagged joint do not need permanent fix as n2p is in the pits ready for cutover,Temp Fix 
+[DATE] pr aerial cable damaged temporary repair mudmap submitted for permanent fix,Temp Fix 
+[QUANTITY] was damaged in [CARDINAL] locations within the [PERSON] premises porsche collingwood by the civil crew  doing new construction work for the customer the site manager was able to repair the lic and subsequently we have run a new sds with temp fix having [CARDINAL] gators on  one at the pit outside premises and the other inside the building services are up and running confirmed with ee damaged caused by construction crew company minicon site manager [PERSON] contact [DATE] damage form submitted with artefacts [ORG] nbn[Ref],Temp Fix 
+[ORDINAL] copper cable installed in between pits and temp fix done for permanent fix need civils the damage on cable looks like due to recent n2p activity cx modem in sync checked with noc team,Temp Fix 
+[CARDINAL] faulty splitters replaced  fjl [CARDINAL] and damaged dpu replaced all services back online and in spec,DPU Replaced
+[CARDINAL] fibres dug up by house owner putting fence in  submitted [ORDINAL] party damage form sdp engaged to do temp fix,Temp Fix 
+[CARDINAL] to fmps no dc output csd required new fmps mrn is in notes as well mrn000188855 please assign to day crew going on stand down,Faulty FMPS units causing power issues
+[CARDINAL] rectifier replaced silf and breaker checked and find no issues if issue persist will need to check the pdp by an [NORP] tcs will also be monitoring and will coordinate with the electrician for further instructions incase another ticket is issued,Rectifier Issue (Resolved)
+[CARDINAL] sapn of sas cable and [CARDINAL] span of sss cable replaced priviously it was done temporary fix we did same like lt was previously exiting,Temp Fix 
+[CARDINAL] spans of sss cable has been installed as a temp fix and spliced into bjl,Temp Fix 
+[CARDINAL] 100ah battery replacement complete,Replaced Battery
+[CARDINAL] 100ah battery replacement complete,Replaced Battery
+[CARDINAL] 100ah battery replacement complete,Replaced Battery
+[CARDINAL] 100ah battery replacement complete,Replaced Battery
+[CARDINAL] 100ah battery replacement complete,Replaced Battery
+[CARDINAL] 100ah battery replacement complete,Replaced Battery
+[CARDINAL] 100ah battery replacement complete,Replaced Battery
+[CARDINAL] 100ah battery replacement complete,Replaced Battery
+[CARDINAL] 100ah battery replacement complete,Replaced Battery
+[CARDINAL] 100ah battery replacement is complete,Replaced Battery
+[CARDINAL] 110ah battery replacement complete,Replaced Battery
+[DATE] battery replacement complete,Replaced Battery
+[DATE] battery replacement complete,Replaced Battery
+[CARDINAL] dpu fault caused by power surge all [CARDINAL] dpus replaced,DPU Replaced 
+[CARDINAL]m cable haul from smp to new gator joint and dpu replaced,DPU And Additional Equipment Replaced
+[CARDINAL] 62 amp batteries replacement and battery calibration,Replaced Battery
+[DATE] battery replacement complete,Replaced Battery
+[DATE] battery replacement please reference photos attached,Replaced Battery
+[DATE] battery replacement [CARDINAL] cable looms replacement complete,Replaced Battery
+a temp fix done for hsd cable as we couldnot open the cabinet as it needs to be checked,Temp Fix 
+[ORG] mains failure,AC Mains Issues (Electrician)
+[ORG] mains failure,AC Mains Issues (Electrician)
+[ORG] mains failure at circuit breaker for ncasfttn [QUANTITY]  [CARDINAL]  [ORG] mains failure  no outage  rcd no mains coming into [GPE] after lightning storm please engage with electricianergon for rectification batterys have run out on [GPE],AC Mains Issues (Electrician)
+[ORG] mains fault unsure of issue only getting [CARDINAL] ac,AC Mains Issues (Electrician)
+[ORG] mains power fluctuating in the [GPE] rcbo and all breakers are on tried resetting all breakers and replaced both rectifiers with no change please engage electrician to investigate low ac mains reading to [GPE],AC Mains Issues (Electrician)
+[ORG] mains tested fine to the node there is a low output voltage so a new tow is to be raised to replace the fmps,Faulty FMPS units causing power issues (MRN Required)
+[ORG] mains working to csd fmps unit needs to be replaced dp to be engaged,Faulty FMPS units causing power issues (MRN Required)
+[ORG],CB Reset
+ac power down at [CARDINAL] due to a power pole replacement node did not come back on once pole and power was reinstated [ORG]™t trip needed to turn the main power breaker off rcbo off and the rectifier breaker off and then switch them back on in the same sequence for the node to come back on line rcbo tested and working correctly,Third Party Power 
+[ORG] is out raised an incident with endeavor energy [ORG] number [DATE] they are sending tech to check at [TIME],AC Mains Issues (Electrician)
+ac present at csd and no faults found on fmps alarms stuck in netcool and cleared after nmc deleted them,Third Party Power 
+[ORG] was present rcd was on fmps was clicking away no output voltage reset fmps didnâ€™t work fmps replaced and alarms cleared,FMPS Replaced 
+[ORG] was present rcd was on fmps was clicking away no output voltage reset fmps didnâ€™t work fmps replaced and alarms cleared,FMPS Replaced 
+advised by tier [CARDINAL] mick simmonds to escalate to have tcs assist,Tech Not Skilled 
